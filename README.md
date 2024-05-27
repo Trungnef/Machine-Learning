@@ -53,11 +53,11 @@
       - `feature = 30`: Output data is the stock price for the next 30 days.
 
 - Prediction
-  - For predicting one day: the test set contains 2122 values.
+  - For predicting one day: the test set contains 957 values.
   - For predicting 30 days: the test set contains 30 values (if more, handling overlapping predictions is required).
 
 ## Demo
-  - Predicting the stock price for the next 1 day (test set includes 2122 values): `MSE = 26.652150430735873`
+  - Predicting the stock price for the next 1 day (test set includes 957 values): `MSE = 5.94491158266953`
   ![Predicting Stock Price for the Next 1 Day](./img/Predict1d.png)
-  - Predicting the stock price for the next 30 days (test set includes 30 values): `MSE = 16.084394047657305`
+  - Predicting the stock price for the next 30 days (test set includes 30 values): `MSE = 11.828753883730588`
   ![Predicting Stock Price for the Next 30 Days](./img/Predict30d.png)
