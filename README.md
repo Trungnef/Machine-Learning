@@ -58,6 +58,6 @@
 
 ## Demo
   - Predicting the stock price for the next 1 day (test set includes 2122 values): `MSE = 26.652150430735873`
-  ![Predicting Stock Price for the Next 1 Day](./img/predict1D.png)
+  ![Predicting Stock Price for the Next 1 Day](./img/Predict1d.png)
   - Predicting the stock price for the next 30 days (test set includes 30 values): `MSE = 16.084394047657305`
-  ![Predicting Stock Price for the Next 30 Days](./img/predict30D.png)
+  ![Predicting Stock Price for the Next 30 Days](./img/Predict30d.png)
